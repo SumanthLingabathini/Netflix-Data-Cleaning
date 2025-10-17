@@ -3,9 +3,7 @@ I worked on a Netflix dataset to clean and prepare it for analysis using Python 
 
 Tools Used
 Python 🐍
-
 Pandas
-
 Jupyter Notebook
 
 Data Cleaning Process
@@ -16,9 +14,7 @@ After cleaning, the dataset was reduced from X rows to Y rows, with all missing 
 
 Project Files
 netflix_raw.csv – original unprocessed data
-
 netflix_cleaned.csv – final cleaned dataset
-
 Netflix_Data_Cleaning.ipynb – notebook with all cleaning steps
 
 What I Learned
